@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import employees from "./employees.json";
-import Search from "./components/Search"
-import EmployeeList from "./components/EmployeeList"
-import Sort from "./components/Sort"
+import Search from "./components/Search";
+import EmployeeList from "./components/EmployeeList";
+import Sort from "./components/Sort";
 
 
 class App extends Component{
