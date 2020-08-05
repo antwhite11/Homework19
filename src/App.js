@@ -11,8 +11,8 @@ class App extends Component{
 
   state = {
     employees,
-    filtered: false, //true
-    foundEmployee: null, //deepika
+    filtered: false, 
+    foundEmployee: null,
     sorted: false
   }
 
