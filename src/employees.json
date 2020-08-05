@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "Firstname": "Anthony",
+      "Lastname": "White",
+      "image": "https://i.imgflip.com/2o6bwo.jpg",
+      "Role": "Intern",
+      "email": "antwhite@gmail.com"
+    },
+    {
+        "id": 2,
+        "Firstname": "Ryan",
+        "Lastname": "Williams",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Finance",
+        "email": "rwill@gmail.com"
+    },
+    {
+        "id": 3,
+        "Firstname": "Bryan",
+        "Lastname": "Hampton",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Software Developer",
+        "email": "bhampton@gmail.com"
+    },
+    {
+        "id": 4,
+        "Firstname": "Beau",
+        "Lastname": "Peiffer",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Real Estate",
+        "email": "beau@gmail.com"
+    },
+    {
+        "id": 5,
+        "Firstname": "Michael",
+        "Lastname": "Jackson",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Entertainment",
+        "email": "mike@gmail.com"
+    },
+    {
+        "id": 6,
+        "Firstname": "Triston",
+        "Lastname": "Thompson",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "CEO",
+        "email": "Carrie@gmail.com"
+    },
+    {
+        "id": 7,
+        "Firstname": "Ming",
+        "Lastname": "Peiffer",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Writer",
+        "email": "Ming@gmail.com"
+    },
+    {
+        "id": 8,
+        "Firstname": "Kane",
+        "Lastname": "Omen",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "HR",
+        "email": "ko@gmail.com"
+    },
+    {
+        "id": 9,
+        "Firstname": "Queen",
+        "Lastname": "Slim",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Security",
+        "email": "queen@gmail.com"
+    },
+    {
+        "id": 10,
+        "Firstname": "Warner",
+        "Lastname": "Robbins",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Receptionist",
+        "email": "WR@gmail.com"
+    },
+    {
+        "id": 11,
+        "Firstname": "Michael",
+        "Lastname": "Jordan",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Strategist",
+        "email": "jumpman@gmail.com"
+    },
+    {
+        "id": 12,
+        "Firstname": "Paula",
+        "Lastname": "Abdul",
+        "image": "https://i.imgflip.com/2o6bwo.jpg",
+        "Role": "Receptionist",
+        "email": "Pabdul@gmail.com"
+    }
+  ]
+  
