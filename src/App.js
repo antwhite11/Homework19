@@ -36,7 +36,7 @@ class App extends Component{
     foundEmployee={this.state.foundEmployee}></EmployeeList>
   }
 
-  azEmployees = (input) => {
+  filterEmployees = (input) => {
     console.log(input)
     let employee = this.state.employees.find( employee => {
         return employee.Lastname === input
